@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.4"
+  version: "0.1.5"
 
 package:
   name: tree-sitter-tmux
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tree-sitter-tmux/tree_sitter_tmux-${{ version }}.tar.gz
-  sha256: 7b37c1ef19483814cd577d9b528892a1c38f4195be6f66f6e4ec6c334fb2328c
+  sha256: 53b09c470486d1d7a4039a319a3dc5d8dc3a039c42b0191c68d18224d672e33e
 
 build:
   number: 0
